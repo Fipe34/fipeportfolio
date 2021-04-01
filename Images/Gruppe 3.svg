@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="83" viewBox="0 0 46 83">
+  <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(-286 -628)">
+    <g id="Rechteck_3" data-name="Rechteck 3" transform="translate(286 628)" fill="none" stroke="#feffff" stroke-width="6">
+      <rect width="46" height="83" rx="23" stroke="none"/>
+      <rect x="3" y="3" width="40" height="77" rx="20" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="13.5" cy="14" rx="13.5" ry="14" transform="translate(296 639)" fill="#feffff"/>
+  </g>
+</svg>
